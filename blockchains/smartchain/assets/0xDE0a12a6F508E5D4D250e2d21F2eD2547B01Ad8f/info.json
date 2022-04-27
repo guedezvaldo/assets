@@ -1,0 +1,11 @@
+{
+    "name": "AD Astra",
+    "website": "",
+    "description": "AirNFTs is NFT marketplace built on Binance Smart Chain where you can Create, Buy and Sell NFTs",
+    "explorer": "https://bscscan.com/token/0xde0a12a6f508e5d4d250e2d21f2ed2547b01ad8f",
+    "type": "BEP20",
+    "symbol": "Astra",
+    "decimals": 0,
+    "status": "active",
+    "id": "0xDE0a12a6F508E5D4D250e2d21F2eD2547B01Ad8f"
+}
