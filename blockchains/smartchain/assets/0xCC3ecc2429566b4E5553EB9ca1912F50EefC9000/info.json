@@ -1,0 +1,11 @@
+{
+    "name": "WorkPlaceSafe",
+    "website": "",
+    "description": "AirNFTs is NFT marketplace built on Binance Smart Chain where you can Create, Buy and Sell NFTs",
+    "explorer": 0xCC3ecc2429566b4E5553EB9ca1912F50EefC9000",
+    "type": "BEP20",
+    "symbol": "WPS",
+    "decimals": 0,
+    "status": "active",
+    "id": 0xCC3ecc2429566b4E5553EB9ca1912F50EefC9000
+}
